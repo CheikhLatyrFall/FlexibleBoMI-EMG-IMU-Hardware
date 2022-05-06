@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=AVDD/2 Pin=P7-1
+Removed Pin From Net: NetName=REF Pin=P7-2
+Removed Pin From Net: NetName=RLD Pin=P7-3
+Removed Member From Class: ClassName=AFE_ADS129X Member=P7
+Added Component: Designator=R58(0402)
+Added Component: Designator=R59(0402)
+Added Pin To Net: NetName=AVDD/2 Pin=R58-1
+Added Pin To Net: NetName=REF Pin=R58-2
+Added Pin To Net: NetName=REF Pin=R59-1
+Added Pin To Net: NetName=RLD Pin=R59-2
+Added Member To Class: ClassName=AFE_ADS129X Member=Component R58 
+Added Member To Class: ClassName=AFE_ADS129X Member=Component R59 

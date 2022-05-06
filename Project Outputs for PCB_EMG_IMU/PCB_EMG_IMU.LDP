@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\Etudiant\Dropbox\PCB_EMG_IMU\PCB_EMG_IMU\PCB_EMG_IMU.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=pcb_emg_imu.txt|DrillLayers=gtl,g2,g4,gbl
+LayersSetName=L1_L2_Blind_Vias|DrillFile=pcb_emg_imu.tx1|DrillLayers=gtl,g2
+LayersSetName=L2_L3_Buried_Vias|DrillFile=pcb_emg_imu.tx2|DrillLayers=g2,g4

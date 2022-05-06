@@ -1,0 +1,275 @@
+*************************************************************
+FileName = PCB_EMG_IMU.GBR
+AutoAperture = True
+*************************************************************
+Generating : L1
+      File : PCB_EMG_IMU.GTL
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : L2
+      File : PCB_EMG_IMU.G1
+
+    Adding Layer      : L2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D36
+*************************************************************
+
+*************************************************************
+Generating : L3
+      File : PCB_EMG_IMU.G2
+
+    Adding Layer      : L3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D36
+*************************************************************
+
+*************************************************************
+Generating : L4
+      File : PCB_EMG_IMU.GBL
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D33
+    D34
+    D36
+    D37
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : PCB_EMG_IMU.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : L1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB_EMG_IMU.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : L4
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB_EMG_IMU.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : PCB_EMG_IMU.GM14
+
+    Adding Layer      : Mechanical 14
+
+
+Used DCodes :
+    D33
+    D66
+    D67
+    D68
+    D69
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_EMG_IMU.GD1
+
+    Adding Drill Pair : L4-L1
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D67
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_EMG_IMU.GD2
+
+    Adding Drill Pair : -L1
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_EMG_IMU.GD3
+
+    Adding Drill Pair : -L2
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_EMG_IMU.GD4
+
+    Adding Drill Pair : L2-L1
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D70
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : PCB_EMG_IMU.GD5
+
+    Adding Drill Pair : L4-
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_EMG_IMU.GG1
+
+    Adding Drill Pair : L1-L4
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_EMG_IMU.GG2
+
+    Adding Drill Pair : L1-L2
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D67
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : PCB_EMG_IMU.GG3
+
+    Adding Drill Pair : L2-L3
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D67
+*************************************************************
+

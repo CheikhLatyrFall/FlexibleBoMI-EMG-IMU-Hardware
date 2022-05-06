@@ -1,0 +1,115 @@
+Removed Pin From Net: NetName=RST Pin=U1-A2
+Removed Pin From Net: NetName=TEST Pin=U1-A4
+Removed Pin From Net: NetName=GND Pin=U1-A5
+Removed Pin From Net: NetName=NetC6_2 Pin=U1-A6
+Removed Pin From Net: NetName=5V Pin=U1-A7
+Removed Pin From Net: NetName=NetR1_2 Pin=U1-A9
+Removed Pin From Net: NetName=NetC5_2 Pin=U1-B6
+Removed Pin From Net: NetName=NetR1_1 Pin=U1-B7
+Removed Pin From Net: NetName=GND Pin=U1-B8
+Removed Pin From Net: NetName=GND Pin=U1-B9
+Removed Pin From Net: NetName=GRN_LED Pin=U1-C8
+Removed Pin From Net: NetName=RXD Pin=U1-C9
+Removed Pin From Net: NetName=TXD Pin=U1-D7
+Removed Pin From Net: NetName=VDD Pin=U1-E9
+Removed Pin From Net: NetName=VDD Pin=U1-F2
+Removed Pin From Net: NetName=GND Pin=U1-F9
+Removed Pin From Net: NetName=GND Pin=U1-G2
+Removed Pin From Net: NetName=VDD Pin=U1-H1
+Removed Pin From Net: NetName=GND Pin=U1-J1
+Removed Pin From Net: NetName=NetC3_1 Pin=U1-J2
+Removed Pin From Net: NetName=MCLK Pin=U1-J6
+Removed Member From Class: ClassName=MSP430F5528ZQFE Member=U1
+Added Component: Designator=UC(MSP430F5528ZQFE)
+Added Pin To Net: NetName=RST Pin=UC-A2
+Added Pin To Net: NetName=TEST Pin=UC-A4
+Added Pin To Net: NetName=GND Pin=UC-A5
+Added Pin To Net: NetName=NetC6_2 Pin=UC-A6
+Added Pin To Net: NetName=5V Pin=UC-A7
+Added Pin To Net: NetName=NetR1_2 Pin=UC-A9
+Added Pin To Net: NetName=NetC5_2 Pin=UC-B6
+Added Pin To Net: NetName=NetR1_1 Pin=UC-B7
+Added Pin To Net: NetName=GND Pin=UC-B8
+Added Pin To Net: NetName=GND Pin=UC-B9
+Added Pin To Net: NetName=GRN_LED Pin=UC-C8
+Added Pin To Net: NetName=RXD Pin=UC-C9
+Added Pin To Net: NetName=TXD Pin=UC-D7
+Added Pin To Net: NetName=VDD Pin=UC-E9
+Added Pin To Net: NetName=VDD Pin=UC-F2
+Added Pin To Net: NetName=GND Pin=UC-F9
+Added Pin To Net: NetName=GND Pin=UC-G2
+Added Pin To Net: NetName=VDD Pin=UC-H1
+Added Pin To Net: NetName=GND Pin=UC-J1
+Added Pin To Net: NetName=NetC3_1 Pin=UC-J2
+Added Pin To Net: NetName=MCLK Pin=UC-J6
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Pin To Net: NetName=NetU2_1 Pin=UC-J7
+Added Net: Name=NetU2_1
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=UC-J8
+Added Net: Name=NetU2_2
+Added Pin To Net: NetName=NetU2_3 Pin=U2-3
+Added Pin To Net: NetName=NetU2_3 Pin=UC-H7
+Added Net: Name=NetU2_3
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Pin To Net: NetName=NetU2_4 Pin=UC-G9
+Added Net: Name=NetU2_4
+Added Pin To Net: NetName=NetU2_5 Pin=U2-5
+Added Pin To Net: NetName=NetU2_5 Pin=UC-G7
+Added Net: Name=NetU2_5
+Added Pin To Net: NetName=NetU2_6 Pin=U2-6
+Added Pin To Net: NetName=NetU2_6 Pin=UC-H6
+Added Net: Name=NetU2_6
+Added Pin To Net: NetName=NetU4_11 Pin=U4-11
+Added Pin To Net: NetName=NetU4_11 Pin=UC-B4
+Added Net: Name=NetU4_11
+Added Pin To Net: NetName=NetU4_12 Pin=U4-12
+Added Pin To Net: NetName=NetU4_12 Pin=UC-B5
+Added Net: Name=NetU4_12
+Added Pin To Net: NetName=NetU4_13 Pin=U4-13
+Added Pin To Net: NetName=NetU4_13 Pin=UC-E2
+Added Net: Name=NetU4_13
+Added Pin To Net: NetName=NetU4_14 Pin=U4-14
+Added Pin To Net: NetName=NetU4_14 Pin=UC-E1
+Added Net: Name=NetU4_14
+Added Pin To Net: NetName=NetU4_19 Pin=U4-19
+Added Pin To Net: NetName=NetU4_19 Pin=UC-G4
+Added Net: Name=NetU4_19
+Added Pin To Net: NetName=NetU4_20 Pin=U4-20
+Added Pin To Net: NetName=NetU4_20 Pin=UC-G5
+Added Net: Name=NetU4_20
+Added Pin To Net: NetName=NetU4_21 Pin=U4-21
+Added Pin To Net: NetName=NetU4_21 Pin=UC-G8
+Added Net: Name=NetU4_21
+Added Pin To Net: NetName=NetU4_22 Pin=U4-22
+Added Pin To Net: NetName=NetU4_22 Pin=U4-23
+Added Pin To Net: NetName=NetU4_22 Pin=UC-H9
+Added Net: Name=NetU4_22
+Added Pin To Net: NetName=NetU4_24 Pin=U4-24
+Added Pin To Net: NetName=NetU4_24 Pin=UC-H8
+Added Net: Name=NetU4_24
+Added Pin To Net: NetName=NetU5_14 Pin=U5-14
+Added Pin To Net: NetName=NetU5_14 Pin=UC-H5
+Added Net: Name=NetU5_14
+Added Pin To Net: NetName=NetU5_15 Pin=U5-15
+Added Pin To Net: NetName=NetU5_15 Pin=UC-J4
+Added Net: Name=NetU5_15
+Added Pin To Net: NetName=NetU5_16 Pin=U5-16
+Added Pin To Net: NetName=NetU5_16 Pin=UC-H4
+Added Net: Name=NetU5_16
+Added Pin To Net: NetName=NetU5_18 Pin=U5-18
+Added Pin To Net: NetName=NetU5_18 Pin=UC-J3
+Added Net: Name=NetU5_18
+Added Pin To Net: NetName=NetU5_19 Pin=U5-19
+Added Pin To Net: NetName=NetU5_19 Pin=UC-E7
+Added Net: Name=NetU5_19
+Added Pin To Net: NetName=NetU5_20 Pin=U5-20
+Added Pin To Net: NetName=NetU5_20 Pin=UC-D8
+Added Net: Name=NetU5_20
+Added Pin To Net: NetName=NetU5_21 Pin=U5-21
+Added Pin To Net: NetName=NetU5_21 Pin=UC-D9
+Added Net: Name=NetU5_21
+Added Pin To Net: NetName=NetU5_22 Pin=U5-22
+Added Pin To Net: NetName=NetU5_22 Pin=UC-H3
+Added Net: Name=NetU5_22
+Added Member To Class: ClassName=MSP430F5528ZQFE Member=Component UC Component_1

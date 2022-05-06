@@ -1,0 +1,33 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: PCB_EMG_IMU.PcbDoc   2016-10-26  23:26:32
+---------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII RoundHoles File : PCB_EMG_IMU.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          3                1.68 Inch (42.55 mm)
+T2        35.43mil (0.89992mm)     Round          2                0.12 Inch (3.05 mm)
+---------------------------------------------------------------------------
+Totals                                            5                1.80 Inch (45.60 mm)
+Layer Pair : L1 to L2
+ASCII RoundHoles File : PCB_EMG_IMU.TX1
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          98               10.16 Inch (258.09 mm)
+---------------------------------------------------------------------------
+Totals                                            98               10.16 Inch (258.09 mm)
+Layer Pair : L2 to L3
+ASCII RoundHoles File : PCB_EMG_IMU.TX2
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        7.87mil (0.1999mm)       Round          41               5.53 Inch (140.38 mm)
+---------------------------------------------------------------------------
+Totals                                            41               5.53 Inch (140.38 mm)
+---------------------------------------------------------------------------
+Totals                                            144              17.48 Inch (444.07 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

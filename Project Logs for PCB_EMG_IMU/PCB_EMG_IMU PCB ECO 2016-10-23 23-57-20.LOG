@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=RLD Pin=R54-1
+Removed Pin From Net: NetName=RLD Pin=R55-2
+Removed Pin From Net: NetName=AVDD Pin=U6-4
+Removed Pin From Net: NetName=AGND Pin=U6-11
+Removed Pin From Net: NetName=NetR56_1 Pin=U6-12
+Removed Pin From Net: NetName=AVDD/2 Pin=U6-13
+Removed Pin From Net: NetName=AVDD/2 Pin=U6-14
+Removed Member From Class: ClassName=AFE_ADS129X Member=R54
+Removed Member From Class: ClassName=AFE_ADS129X Member=R55
+Removed Member From Class: ClassName=AFE_ADS129X Member=U6
+Added Component: Designator=U10(ADA4505-2)
+Added Pin To Net: NetName=AVDD/2 Pin=U10-A1
+Added Pin To Net: NetName=AVDD Pin=U10-A2
+Added Pin To Net: NetName=AVDD/2 Pin=U10-B1
+Added Pin To Net: NetName=AGND Pin=U10-C2
+Added Pin To Net: NetName=NetR56_1 Pin=U10-C3
+Added Pin To Net: NetName=E+ Pin=U5-4
+Added Net: Name=E+
+Added Pin To Net: NetName=E- Pin=U5-3
+Added Net: Name=E-
+Added Pin To Net: NetName=NetU10_A3 Pin=U10-A3
+Added Pin To Net: NetName=NetU10_A3 Pin=U10-B3
+Added Pin To Net: NetName=NetU10_A3 Pin=U10-C1
+Added Net: Name=NetU10_A3
+Added Member To Class: ClassName=AFE_ADS129X Member=Component U10 ADA4505-2

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=AVDD/2 Pin=U10-A1
+Removed Pin From Net: NetName=AVDD Pin=U10-A2
+Removed Pin From Net: NetName=AVDD/2 Pin=U10-B1
+Removed Pin From Net: NetName=AGND Pin=U10-C2
+Removed Pin From Net: NetName=NetR56_1 Pin=U10-C3
+Removed Member From Class: ClassName=AFE_ADS129X Member=U10
+Added Component: Designator=U11(ADA4505-2ARM)
+Added Pin To Net: NetName=NetR56_1 Pin=U11-3
+Added Pin To Net: NetName=AGND Pin=U11-4
+Added Pin To Net: NetName=AVDD/2 Pin=U11-6
+Added Pin To Net: NetName=AVDD/2 Pin=U11-7
+Added Pin To Net: NetName=AVDD Pin=U11-8
+Added Pin To Net: NetName=NetU11_1 Pin=U11-1
+Added Pin To Net: NetName=NetU11_1 Pin=U11-2
+Added Pin To Net: NetName=NetU11_1 Pin=U11-5
+Added Net: Name=NetU11_1
+Added Member To Class: ClassName=AFE_ADS129X Member=Component U11 ADA4505-2ARMZ-RL
